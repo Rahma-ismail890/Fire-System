@@ -1,0 +1,6 @@
+SERVICE/UART_STACK.d SERVICE/UART_STACK.o: ../SERVICE/UART_STACK.c \
+ ../stand_type.h ../SERVICE/UART_STACK.h
+
+../stand_type.h:
+
+../SERVICE/UART_STACK.h:
